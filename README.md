@@ -25,18 +25,6 @@ The project follows a hierarchical organization:
 
 Macrotheme → Theme → Problem
 
-statistics/
-│
-├── section_01-exploratory-analysis/
-│   ├── 01-data-summary/
-│   ├── 02-summary-measures/
-│   └── ...
-│
-├── section_02-probability/
-│   ├── 01-basic-concepts/
-│   ├── 02-random-variables/
-│   └── ...
-
 ### Macrotheme
 
 A broad area of statistics (e.g., Exploratory Analysis, Probability, Statistical Inference).
