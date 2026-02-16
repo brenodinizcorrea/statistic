@@ -67,3 +67,6 @@ import sys
 print(sys.executable)
 print(sys.version)
 ```
+
+- sys.executable should point to .../venv/bin/python.
+- All installed packages are available in the notebook.
